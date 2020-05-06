@@ -27,8 +27,8 @@
 #define GLT_IMPLEMENTATION
 #include "gltext.h"
 
-#define LOCAL_ADAPTER_IP_ADDRESS "fill.me.in" // ipconfig in cmd prompt on cheat machine, find local address, fill it in here
-#define MACHINE_PLAYING_GAME_IP_ADDRESS "fill.me.in" // the local IP address of the machine communicating with EFT servers
+#define LOCAL_ADAPTER_IP_ADDRESS "192.168.0.182" // ipconfig in cmd prompt on cheat machine, find local address, fill it in here
+#define MACHINE_PLAYING_GAME_IP_ADDRESS "192.168.0.147" // the local IP address of the machine communicating with EFT servers
 
 struct Packet
 {
